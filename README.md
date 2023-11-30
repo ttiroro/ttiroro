@@ -1,7 +1,4 @@
-### Hi, there 😊
-<br/>
-
-#### 🌱 Frontend Developer 🌱
+### 🌱 Frontend Developer 🌱
 <br/>
 
 > #### 2023.07 ~ |  풀스택 과정 수강중
